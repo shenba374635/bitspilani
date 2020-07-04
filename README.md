@@ -1,2 +1,2 @@
 # bitspilani
-This is a Bits Pilani Project for assignment
+This is a Bits Pilani Project for Devops assignment
